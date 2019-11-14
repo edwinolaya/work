@@ -1,0 +1,5 @@
+http://easyautocomplete.com/examples
+https://vue-select.org/guide/upgrading.html#index-prop-replaced-with-reduce
+https://codepen.io/sagalbot/pen/POMeOX
+https://vue-multiselect.js.org/#sub-single-select
+https://adminlte.io/themes/dev/AdminLTE/index.html
